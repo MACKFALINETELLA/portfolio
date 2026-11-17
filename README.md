@@ -43,7 +43,9 @@ I believe in consistent learning, practical experience, and continuous improveme
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect 
+
+email;mackfalinetela@gmail.com
 
 I'm always interested in learning, sharing ideas, and collaborating on technology projects.
 
