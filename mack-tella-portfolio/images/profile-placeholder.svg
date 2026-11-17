@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241f55"/><stop offset="1" stop-color="#126d70"/></linearGradient>
+  <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9083ff"/><stop offset="1" stop-color="#42cdb8"/></linearGradient>
+</defs>
+<rect width="640" height="640" fill="url(#bg)"/>
+<circle cx="510" cy="112" r="120" fill="#ffffff" opacity=".06"/><circle cx="120" cy="520" r="180" fill="#ffffff" opacity=".05"/>
+<path d="M95 640c23-137 110-211 225-211s202 74 225 211" fill="url(#shirt)"/>
+<path d="M217 239c0-88 46-139 105-139s105 51 105 139v64c0 95-47 160-105 160s-105-65-105-160z" fill="#9b684f"/>
+<path d="M213 265c-14-95 20-173 93-187 84-16 143 39 133 157-15-13-30-36-36-65-42 36-106 43-190 35z" fill="#171a2c"/>
+<path d="M250 296c10-8 22-8 32 0m73 0c10-8 22-8 32 0" stroke="#30202a" stroke-width="8" stroke-linecap="round" fill="none"/>
+<path d="M289 366c20 16 43 16 63 0" stroke="#5e302e" stroke-width="8" stroke-linecap="round" fill="none"/>
+<path d="M205 263c-24-7-36 13-27 44 7 23 19 34 34 31m216-75c24-7 36 13 27 44-7 23-19 34-34 31" fill="#9b684f"/>
+<text x="320" y="585" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" letter-spacing="7" fill="#fff" opacity=".86">ADD YOUR PHOTO</text>
+</svg>

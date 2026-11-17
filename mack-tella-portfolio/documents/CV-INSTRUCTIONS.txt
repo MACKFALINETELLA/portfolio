@@ -1,0 +1,1 @@
+Place your actual CV PDF in this folder and name it Mack-Tella-CV.pdf. The Download CV button in index.html already links to that filename. A CV was not generated because your education, experience, qualifications and contact details were not supplied.
