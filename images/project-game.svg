@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540">
-<defs><linearGradient id="sky" y2="1"><stop stop-color="#18244c"/><stop offset="1" stop-color="#d46b9e"/></linearGradient></defs>
-<rect width="900" height="540" rx="26" fill="url(#sky)"/><circle cx="700" cy="130" r="62" fill="#ffd78b" opacity=".9"/><path d="M0 380l150-95 125 82 160-130 170 142 130-94 165 95v160H0z" fill="#263b66"/><path d="M0 430l165-70 155 88 170-76 170 62 130-55 110 44v117H0z" fill="#172a4d"/>
-<g fill="#51d4c4"><rect x="110" y="420" width="210" height="20" rx="7"/><rect x="490" y="350" width="220" height="20" rx="7"/></g>
-<g transform="translate(250 300)"><rect x="0" y="0" width="54" height="72" rx="13" fill="#8f7dff"/><circle cx="17" cy="25" r="5" fill="#fff"/><circle cx="38" cy="25" r="5" fill="#fff"/><path d="M15 48q12 12 25 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/></g>
-<g fill="#ffe29d"><path d="M405 265l17 34-35 0z"/><path d="M760 290l17 34-35 0z"/></g>
-<g font-family="Arial" font-weight="bold"><text x="55" y="70" fill="#fff" font-size="22">UNITY GAME PROJECT</text><text x="57" y="100" fill="#d6d6f6" font-size="12" letter-spacing="3">ILLUSTRATIVE GAME SCENE</text></g>
-</svg>
